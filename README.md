@@ -1,1 +1,1 @@
-# kerinceus.github.io
+window.location.replace("http://www.kerinceus.cf");
